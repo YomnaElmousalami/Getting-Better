@@ -1,1 +1,1 @@
-Practice with cloning Airbnb layout
+Practice with cloning Airbnb Hompage layout
