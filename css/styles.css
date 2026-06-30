@@ -1,0 +1,20 @@
+.top-border {
+  border-top: 160px solid #fafafa;
+  margin: 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+}
+
+
+/* tablet */
+@media (max-width: 768px) {
+  .top-border {
+    border-top: 125px solid #fafafa;
+  }
+}
+
+/* phone */
+@media (max-width: 480px) {
+  .top-border {
+    border-top: 125px solid #fafafa;
+  }
+}
