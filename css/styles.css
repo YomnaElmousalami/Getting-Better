@@ -4,6 +4,13 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
 }
 
+.logo{
+  width: 12%;
+  position: absolute;
+  top: -4px;
+  left: 12px;
+}
+
 
 /* tablet */
 @media (max-width: 768px) {
