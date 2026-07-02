@@ -2,13 +2,14 @@
   border-top: 160px solid #fafafa;
   margin: 0;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+  position: relative;
 }
 
 .logo{
-  width: 12%;
+  width: 115px;
   position: absolute;
-  top: -4px;
-  left: 12px;
+  top: -10px;
+  left: 40px;
 }
 
 
@@ -17,11 +18,21 @@
   .top-border {
     border-top: 125px solid #fafafa;
   }
+
+  .logo {
+    width: 90px;
+    left: 24px;
+    top: -6px;
+  }
 }
 
 /* phone */
 @media (max-width: 480px) {
   .top-border {
-    border-top: 125px solid #fafafa;
+    display: none;
+  }
+
+  .logo {
+    display: none;
   }
 }
