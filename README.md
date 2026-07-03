@@ -1,1 +1,1 @@
-Practice getting better at weakpoints in programming
+Practice getting better at weakpoints in programming.
