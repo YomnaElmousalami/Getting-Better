@@ -1,1 +1,1 @@
-Practice with cloning Airbnb Hompage layout
+Practice getting better at weakpoints in programming
